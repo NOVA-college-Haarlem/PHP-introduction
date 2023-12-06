@@ -11,7 +11,7 @@ Je hebt tot nu toe alleen data opgehaald. Veel rijen (records) met data en enkel
 
 ### Formulier & POST-request
 
-In het vorige blok heb je gewerkt met de GET-request methode. Dus verzoeken doen aan de server via een URL. Nu gaan we op een andere wijze verzoeken doen, met de POST-request. Deze wordt vaak gebruikt om data op te slaan of te bewerken. Ook zullen we werken met de \$_POST-array.
+In het vorige blok heb je gewerkt met de GET-request methode. Dus verzoeken doen aan de server via een URL. Nu gaan we op een andere wijze verzoeken doen, met de POST-request. Deze wordt vaak gebruikt om data op te slaan of te bewerken. Ook zullen we werken met de $_POST-array.
 
 De \$_POST array *vullen* we nu met een HTML formulier. Dus stel dat we gereedschap in de database willen opslaan. Dan maken we een HTML formulier waarmee een gebruiker de gegevens kan invullen.
 
